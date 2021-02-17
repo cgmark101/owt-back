@@ -15,7 +15,7 @@ def set_db():
   "bs": 1,
   "conn": "m",
   "created_at": 1612658146,
-  "key": "viiobn6mj1pf",
+  "key": "viiobn6mj1pf", ##This string value can be modified but must be changed in the base.py and all the other fields to match
   "lat": 8.3690592,
   "lon": -62.6282535,
   "t": "u",
