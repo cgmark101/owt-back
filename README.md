@@ -46,7 +46,7 @@ And finally run
     $ python main.py
 ```
 
-Navigate to [localhost:8000/docs](http://127.0.0.1:8000/docs) to see the interactive documentation.
+Navigate to [localhost:8000/docs](http://127.0.0.1:8000/docs) to see the interactive documentation (You have to open port 8000 in this case to be able to receive the payload from owntracks)
 
 
 Owntracks app config
