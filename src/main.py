@@ -40,6 +40,7 @@ async def post_position(request:Request):
 
 ## Post position from owntracks app 
 ## This method use a pydantic model to parse the data
+## This code was testes only in android devices
 @app.post('/position2/')
 async def post_position(payload:Payload): ## Payload from pydantic model in models.py
     r = payload.dict() ## Pydantic model parsed to dictionary with the received data from owntracks app
