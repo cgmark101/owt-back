@@ -46,5 +46,18 @@ And finally run
     $ python main.py
 ```
 
-Navigate to [localhost:8000/docs](http://127.0.0.1:8000/docs) to see the endpoints
+Navigate to [localhost:8000/docs](http://127.0.0.1:8000/docs) to see the interactive documentation.
 
+
+Owntracks app config
+----------------
+
+Inside the app navigate to `preference->connection->mode` and sellect HTTP
+
+Inside the app navigate to `preference->connection->host` http://your-domain:8000/position/
+
+Inside the app navigate to `preference->connection->identification` just fill `device id` and `tracker id`
+
+Inside the app navigate to `preference->reporting->aditional data` and turn it on.
+
+And you are done, take your phone 
