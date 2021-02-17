@@ -28,6 +28,7 @@ async def index():
 
 ## Post position from owntracks app to detabase
 ## This method use the direct request body to get the payload and processit to detabase
+## That means, no automatic documentation in /docs
 @app.post('/position/')
 async def post_position(request:Request):
     r = await request.body()
