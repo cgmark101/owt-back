@@ -54,10 +54,10 @@ Owntracks app config
 
 Inside the app navigate to `preference->connection->mode` and sellect HTTP
 
-Inside the app navigate to `preference->connection->host` http://your-domain:8000/position/
+Inside the app navigate to `preference->connection->host` fill it with http://your-domain:8000/position/
 
 Inside the app navigate to `preference->connection->identification` just fill `device id` and `tracker id`
 
 Inside the app navigate to `preference->reporting->aditional data` and turn it on.
 
-And you are done, take your phone 
+And you are done, take your phone, and do some moves to see your position updated and store in the database
