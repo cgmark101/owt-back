@@ -2,10 +2,10 @@ OwT server
 =====
 
 This is a server implementation of the HTTP protocol of the `OwnTracks` app client,
-it can handle the payload and store in a cloud data base `DetaBase` for further read/query, 
+it can handle the payload and store in a cloud data base `DetaBase` for read/query, 
 and also be hosted on `DetaMicros`
 
-`Demo` at: [DetaMicros](https://2bbwzl.deta.dev/mbox)
+`Demo` at: [DetaMicros](https://gq3lmt.deta.dev)
 
 Installation
 ----------
